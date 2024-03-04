@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TodosList</string>
+
+    <string-array name="filter">
+        <item>All</item>
+        <item>Complete</item>
+        <item>InComplete</item>
+    </string-array>
+</resources>
